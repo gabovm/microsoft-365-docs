@@ -23,7 +23,7 @@ To customize your booking page, sign in to [Office.com](https://office.com), and
 
 The section below gives you information about setting up your bookings page and how to publish your page.
 
-- **Booking page status** Publish your calendar live to make your service bookable. You have the options to share the link to your calendar via email and Twitter, and to add a **Book Now** button to a Facebook page. The link can also be embedded in your organization’s Web site.
+- **Booking page status** Publish your calendar live to make your service bookable. You have the options to share the link to your calendar via email and Twitter. The link can also be embedded in your organization’s Web site.
 
     The internal Booking Page looks like this:
 
